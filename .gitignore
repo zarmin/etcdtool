@@ -2,3 +2,5 @@
 /.build
 /bin
 /pkg
+
+./etcdtool
